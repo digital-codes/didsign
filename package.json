@@ -90,8 +90,5 @@
   "engines": {
     "node": ">=20.18.3"
   },
-  "packageManager": "yarn@1.22.22",
-  "resolutions": {
-    "@kiltprotocol/type-definitions": "1.11501.0-rc.1"
-  }
+  "packageManager": "yarn@1.22.22"
 }
